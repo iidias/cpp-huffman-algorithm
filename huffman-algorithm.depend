@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1768602488 source:c:\users\usu햞io\desktop\huffman-algorithm\huffman_engine.cpp
+	"huffman_engine.h"
+
+1768602470 source:c:\users\usu햞io\desktop\huffman-algorithm\bitwriter.cpp
+	"BitWriter.h"
+
+1768602457 c:\users\usu햞io\desktop\huffman-algorithm\bitwriter.h
+	<iostream>
+
+1768602935 source:c:\users\usu햞io\desktop\huffman-algorithm\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<queue>
+	<map>
+	<string>
+	"BitWriter.h"
+	"huffman_engine.h"
+
+1768602403 c:\users\usu햞io\desktop\huffman-algorithm\huffman_engine.h
+	<string>
+	<map>
+
